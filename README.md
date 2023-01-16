@@ -1,4 +1,4 @@
--👋 Hi, I am Sydney Balboni
+- 👋 Hi, I am Sydney Balboni
   - Computer Engineering student at Milwaukee School of Engineering
   - Software Engineering intern at Cognex
 <br>
