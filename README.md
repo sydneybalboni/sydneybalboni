@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I am Sydney Balboni
 
 - 👀 I’m interested in:
   - Embedded Systems
@@ -11,4 +11,4 @@
   - Swift for IOS development
   - C++ for firmware development
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/sydneybalboni/" />][linkedin]
--->
+
