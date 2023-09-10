@@ -1,6 +1,6 @@
 - 👋 Hi, I am Sydney Balboni
   - Computer Engineering student at Milwaukee School of Engineering
-  - Software Engineering intern at Cognex
+  - Data Science intern at Direct Supply
 
 - 👀 I’m interested in:
   - Embedded Systems
